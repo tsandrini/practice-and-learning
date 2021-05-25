@@ -1,0 +1,47 @@
+#+NAME: README.org
+#+AUTHOR: tsandrini
+
+* Description
+Implementation of various programming practice/competitive assignments as well
+as (free, I enroll only to free ones) courses material. This README files
+serves both as a description of the programs enlisted in this repository
+as well as my personal comments & progress tracker of them.
+* Courses
+** Coursera
+*** [[https://www.coursera.org/learn/algorithms-part1][Algorithms, Part I | Coursera]]
+Elementary data structures & algorithms implemented mainly in Java
+**** Literature/Resources
+- [[https://algs4.cs.princeton.edu/home/][Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne]]
+**** Progress tracking
+***** TODO Week 1
+****** Course Introduction
+- [X] **Reading**: Welcome to Algorithms, Part I
+- [X] **Reading**: Lecture Slides
+- [X] **Video**: LectureCourse Introduction
+- [X] **Practice Programming Assignment**: Hello, World
+****** Union-Find
+- [ ] **Reading**: Overview
+- [ ] **Reading**: Lecture slides
+- [ ] **Video**: Dynamic Connectivity
+- [ ] **Video**: Quick Find
+- [ ] **Video**: Quick Union
+- [ ] **Video**: Quick-Union Improvements
+- [ ] **Video**: Union-Find Applications
+- [ ] **Practice Quiz**: Interview Questions: Union-Find (ungraded)
+- [ ] **Programming Assignment**: Percolation
+****** Analysis of Algorithms
+- [ ] **Reading**: Lecture Slides
+- [ ] **Video**: LectureAnalysis of Algorithms Introduction
+- [ ] **Video**: LectureObservations
+- [ ] **Video**: LectureMathematical Models
+- [ ] **Video**: LectureOrder-of-Growth Classifications
+- [ ] **Video**: LectureTheory of Algorithms
+- [ ] **Video**: LectureMemory
+- [ ] **Practice Quiz**: Interview Questions: Analysis of Algorithms (ungraded)
+***** TODO Week 2
+***** TODO Week 3
+***** TODO Week 4
+***** TODO Week 5
+***** TODO Week 6
+* Learning
+* Practice
